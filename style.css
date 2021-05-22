@@ -171,7 +171,7 @@ p{
         top: 15%;
     }
     #left{
-        left: 10%;
+        left: 12%;
     }
     #right{
         left: 70%;
@@ -187,6 +187,9 @@ p{
     }
     #right{
         left: 70%;
+    }
+    #left{
+        left: 12%;
     }
     .dot{
         width: 10px;

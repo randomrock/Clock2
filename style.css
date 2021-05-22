@@ -68,8 +68,8 @@ a{
     }
 }
 .dot {
-    height: 20px;
-    width: 20px;
+    height: 15px;
+    width: 15px;
     position: absolute;
     top: 47%;
     left: 48%;
@@ -91,8 +91,8 @@ p{
     }
 }
 .dot {
-    height: 20px;
-    width: 20px;
+    height: 15px;
+    width: 15px;
     position: absolute;
     top: 47%;
     left: 48%;
@@ -177,8 +177,8 @@ p{
         left: 67%;
     }
      .dot{
-        width: 15px;
-        height: 15px;
+        width: 13px;
+        height: 13px;
     }
 }
 @media(max-width: 400px){

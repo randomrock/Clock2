@@ -185,14 +185,14 @@ p{
         top: 15%;
     }
     #left{
-        left: 14%;
+        left: 15%;
     }
     #right{
         left: 70%;
     }
      .dot{
-        width: 12px;
-        height: 12px;
+        width: 10px;
+        height: 10px;
     }
 }
 @media(max-width: 400px){
@@ -203,11 +203,11 @@ p{
         left: 70%;
     }
     #left{
-        left: 14%;
+        left: 15%;
     }
     .dot{
-        width: 12px;
-        height: 12px;
+        width: 10px;
+        height: 10px;
     }
 }
 

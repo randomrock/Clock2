@@ -185,8 +185,12 @@ p{
     #left,#right{
         top: 13%;
     }
+    .dot{
+        width: 13px;
+        height: 13px;
+    }
 }
 
     
-}
+
 
